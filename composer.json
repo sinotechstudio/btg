@@ -1,0 +1,7 @@
+{
+  "name": "sinotechstudio/freefire-tournament",
+  "description": "Free Fire tournament website and REST API",
+  "type": "project",
+  "require": {"php": ">=8.2", "ext-pdo": "*", "ext-pdo_mysql": "*"},
+  "autoload": {"psr-4": {"App\\": "app/"}}
+}

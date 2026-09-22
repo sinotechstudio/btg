@@ -1,0 +1,1 @@
+<?php declare(strict_types=1);header('Content-Type: application/json');header('X-Content-Type-Options: nosniff');echo json_encode(['success'=>true,'message'=>'Free Fire Tournament API','data'=>['version'=>'v1','status'=>'ready']]);
